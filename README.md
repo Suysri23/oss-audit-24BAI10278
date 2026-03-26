@@ -1,7 +1,8 @@
 # OSS-Audit-24BAI10278
 
 ##  Student Details
-- **Name:** Suyash  
+- **Name:** Suyash Srivastava
+- **Registration Number:** 24BAI10278
 - **Course:** Open Source Software (OSS)  
 - **Project Title:** Open Source Audit  
 - **Chosen Software:** Python  
